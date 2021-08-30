@@ -1,0 +1,14 @@
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.exe
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.deps.json
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.runtimeconfig.json
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.runtimeconfig.dev.json
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.dll
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\bin\Debug\netcoreapp3.1\SampleAzureConsoleApp.pdb
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.csproj.AssemblyReference.cache
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.AssemblyInfoInputs.cache
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.AssemblyInfo.cs
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.csproj.CoreCompileInputs.cache
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.dll
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.pdb
+D:\GitSamples\SampleConsoleApp\SampleAzureConsoleApp\obj\Debug\netcoreapp3.1\SampleAzureConsoleApp.genruntimeconfig.cache
